@@ -20,7 +20,7 @@ Code challenge - introduction to CSS animations and tranform property
 <h3>Your Challenge (5 points total)</h3>
 <ol>
   <li>Fork and Clone this repo</li>
-  <li>Create animation.css file inside your css file</li>
+  <li>Create animation.css file inside your css folder</li>
   <li>Link your animate.css</li>
 </ol>
 

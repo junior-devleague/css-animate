@@ -1,5 +1,5 @@
 # css-animate
-1 hour challenge - introduction to CSS animations and tranform property
+Code challenge - introduction to CSS animations and tranform property
 
 <h3>Desired Outcome</h3>
 <ul>
